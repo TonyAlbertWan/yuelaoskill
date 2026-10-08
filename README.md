@@ -5,7 +5,7 @@
 ## 来源与原作者
 
 - 来源平台：小红书 RedSkill 商店，https://redskill.xiaohongshu.net/ 。
-- 原作者：**白巧克力**（小红书 RedSkill 官方公开元数据中的作者署名）。
+- 原作者：**白巧克力**（@小红书 RedSkill）。
 - 原始技能名称：月老skill。
 - RedSkill 标识符：`yuelaoskill`。
 - 备份版本：`1.0.1`。
